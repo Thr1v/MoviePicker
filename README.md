@@ -1,6 +1,6 @@
 # MoviePicker
 
-Movie picker python file. Top features include
+Movie picker python file. Top features include:
 
 1. Pick a random movie
 2. Get ratings of movies
