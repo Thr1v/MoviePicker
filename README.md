@@ -8,9 +8,10 @@ Movie picker python file. Top features include
 
 
 To run make sure you first run
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
-After simply just run
-MovieRating.py
+After, browse to the file location and simply just run
+
+"python MovieRating.py"
 
 in the CLI and a GUI will appear.
